@@ -109758,6 +109758,26 @@
 			"isAbstract": false,
 			"isFinalSpecialization": false,
 			"isLeaf": false
+		},
+		{
+			"_type": "FCFlowchart",
+			"_id": "AAAAAAFigPq6BgshXbM=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Flowchart1",
+			"ownedElements": [
+				{
+					"_type": "FCFlowchartDiagram",
+					"_id": "AAAAAAFigPq6BgsiRmw=",
+					"_parent": {
+						"$ref": "AAAAAAFigPq6BgshXbM="
+					},
+					"name": "FlowchartDiagram1",
+					"visible": true,
+					"defaultDiagram": false
+				}
+			]
 		}
 	]
 }
