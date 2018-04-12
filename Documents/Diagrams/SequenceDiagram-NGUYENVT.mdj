@@ -14440,7 +14440,7 @@
 											"left": 533,
 											"top": 80,
 											"width": 1,
-											"height": 801,
+											"height": 735,
 											"autoResize": false
 										}
 									],
@@ -14456,7 +14456,7 @@
 									"left": 472,
 									"top": 40,
 									"width": 122,
-									"height": 841,
+									"height": 775,
 									"autoResize": false,
 									"stereotypeDisplay": "label",
 									"showVisibility": true,
@@ -14642,7 +14642,7 @@
 											"left": 785,
 											"top": 80,
 											"width": 1,
-											"height": 801,
+											"height": 737,
 											"autoResize": false
 										}
 									],
@@ -14658,7 +14658,7 @@
 									"left": 728,
 									"top": 40,
 									"width": 114,
-									"height": 841,
+									"height": 777,
 									"autoResize": false,
 									"stereotypeDisplay": "label",
 									"showVisibility": true,
@@ -14844,7 +14844,7 @@
 											"left": 1025,
 											"top": 80,
 											"width": 1,
-											"height": 783,
+											"height": 737,
 											"autoResize": false
 										}
 									],
@@ -14860,7 +14860,7 @@
 									"left": 976,
 									"top": 40,
 									"width": 98.04443359375,
-									"height": 823,
+									"height": 777,
 									"autoResize": false,
 									"stereotypeDisplay": "label",
 									"showVisibility": true,
@@ -15923,7 +15923,7 @@
 											"left": 1265,
 											"top": 320,
 											"width": 14,
-											"height": 465,
+											"height": 481,
 											"autoResize": false
 										}
 									],
@@ -17058,13 +17058,13 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 259,
-											"top": 558,
-											"width": 294,
-											"height": 13,
+											"left": 311,
+											"top": 550,
+											"width": 214,
+											"height": 26,
 											"autoResize": false,
-											"alpha": 1.1999055205560514,
-											"distance": 19.313207915827967,
+											"alpha": 1.8417436928925555,
+											"distance": 18.681541692269406,
 											"hostEdge": {
 												"$ref": "AAAAAAFhTLF+dKHgYhQ="
 											},
@@ -17073,7 +17073,7 @@
 											"text": "7.1.4 : Reload \"Quản lí danh sách kế hoạch\" page ",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
-											"wordWrap": false
+											"wordWrap": true
 										},
 										{
 											"_type": "EdgeLabelView",
